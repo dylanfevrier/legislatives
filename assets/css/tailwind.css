@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.content {
+    @apply w-full md:w-[960px] px-4 mx-auto;
+}
+
+.btn {
+    @apply rounded border  align-middle px-4 py-2 font-bold
+}
+
+.btn-red {
+   @apply bg-red text-white hover:text-red hover:bg-white border-red
+}
+
+.btn-black {
+    @apply bg-black text-white border-black hover:text-black hover:bg-white hover:border-white;
+}
+
+h1 {
+    @apply text-black text-title-1 font-extrabold;
+    font-family: "Barlow Condensed", sans-serif;
+}
+
+h2 {
+    @apply text-black text-title-2 font-bold;
+    font-family: "Barlow Condensed", sans-serif;
+}
+
+p {
+    @apply mb-2;
+}
