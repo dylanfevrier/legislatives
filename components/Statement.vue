@@ -5,7 +5,7 @@ const { data } = await useAsyncData('statement', () => queryContent('/', '_state
 </script>
 
 <template>
-  <section class="py-4">
+  <section>
     <div class="prose md:prose-lg">
       <ContentRendererMarkdown :value="data" />
     </div>
