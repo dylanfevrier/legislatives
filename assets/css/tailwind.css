@@ -7,7 +7,7 @@
 }
 
 .btn {
-    @apply rounded border  align-middle px-4 py-2 font-bold
+    @apply rounded border  align-middle px-4 py-2 font-bold text-center block whitespace-break-spaces
 }
 
 .btn-red {
