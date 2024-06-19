@@ -9,7 +9,7 @@ const { data } = await useAsyncData('applicant', () => queryContent('/applicants
     <div class="flex">
       <div>
         <div class="flex align-items mb-2">
-          <img class="rounded" src="~/assets/images/oussama.jpeg" alt="Photo Oussama Laraichi" width="100px" />
+          <img class="rounded profile" src="~/assets/images/oussama.jpeg" alt="Photo Oussama Laraichi" height="100" />
 
           <div class="ml-2">
             <span>Candidat</span>

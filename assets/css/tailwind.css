@@ -18,6 +18,10 @@
     @apply bg-black text-white border-black hover:text-black hover:bg-white hover:border-white;
 }
 
+.profile {
+    @apply w-[100px] h-[100px] object-cover;
+}
+
 h1 {
     @apply text-black text-title-1 font-extrabold;
     font-family: "Barlow Condensed", sans-serif;
