@@ -9,7 +9,7 @@ const { data } = await useAsyncData('alternate', () => queryContent('/applicants
     <div class="flex">
       <div>
         <div class="flex align-items mb-2">
-          <img class="rounded" src="~/assets/images/oussama.jpeg" alt="Photo Oussama Laraichi" width="100px" />
+          <img class="rounded" src="~/assets/images/morgane.jpeg" alt="Photo Oussama Laraichi" width="100px" />
 
           <div class="ml-2">
             <span>Suppléante</span>
