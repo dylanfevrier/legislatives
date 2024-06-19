@@ -24,3 +24,5 @@ Nouveau Front Populaire !
 Face au risque que représente l'extrême-droite sur
 notre démocratie, nos droits et nos libertés, aucune
 voix ne doit manquer les 29 juin et 6 juillet.
+
+**Oussama Laraichi**
