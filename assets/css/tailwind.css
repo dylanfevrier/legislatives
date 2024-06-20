@@ -7,7 +7,7 @@
 }
 
 .btn {
-    @apply rounded border  align-middle px-4 py-2 font-bold text-center block whitespace-break-spaces
+    @apply rounded-[13px] border align-middle px-[30px] py-[13px] transition-all font-bold text-center block whitespace-break-spaces
 }
 
 .btn-red {
@@ -16,6 +16,10 @@
 
 .btn-black {
     @apply bg-black text-white border-black hover:text-black hover:bg-white hover:border-white;
+}
+
+.btn-outline {
+    @apply bg-white text-black border-black hover:bg-black hover:text-white
 }
 
 .profile {

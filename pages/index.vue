@@ -13,6 +13,11 @@
       <Alternate class="w-full lg:w-1/2"/>
     </div>
 
+    <Events class="px-4 w-full lg:w-[1200px] mx-auto my-10 lg:my-15" />
+
     <Footer />
   </div>
 </template>
+<script setup lang="ts">
+import Events from "~/components/Events.vue";
+</script>
