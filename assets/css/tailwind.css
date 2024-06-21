@@ -14,8 +14,12 @@
    @apply bg-red text-white hover:text-red hover:bg-white border-red
 }
 
+.btn-green {
+    @apply bg-green text-white hover:text-green hover:bg-white border-green
+}
+
 .btn-black {
-    @apply bg-black text-white border-black hover:text-black hover:bg-white hover:border-white;
+    @apply bg-black text-white border-black hover:text-black hover:bg-white hover:border-white hover:border-black;
 }
 
 .btn-outline {

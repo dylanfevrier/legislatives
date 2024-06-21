@@ -46,6 +46,9 @@ export default {
         red: {
           DEFAULT: '#EF1926',
         },
+        pink: {
+          DEFAULT: '#E6255B',
+        },
         purple: {
           DEFAULT: '#9A36E0',
         },

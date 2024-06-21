@@ -5,7 +5,7 @@ const { data } = await useAsyncData('header', () => queryContent('/', '_header')
 </script>
 
 <template>
-  <header class="py-3 bg-green">
+  <header class="py-3 bg-red">
     <div class="content">
       <div class="w-full text-white text-center">
         <span class="font-semibold">Élections législatives 2024</span> · Votez les  <span class="font-semibold">{{ data.first_round_date }}</span> et  <span class="font-semibold">{{ data.second_round_date }}</span> !

@@ -13,6 +13,8 @@
       <Alternate class="w-full lg:w-1/2"/>
     </div>
 
+    <Press class="my-10 lg:my-15"/>
+
     <Events class="px-4 w-full lg:w-[1200px] mx-auto my-10 lg:my-15" />
 
     <Footer />
