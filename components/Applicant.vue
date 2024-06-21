@@ -13,7 +13,8 @@ const { data } = await useAsyncData('applicant', () => queryContent('/applicants
 
           <div class="ml-2">
             <span>Candidat</span>
-            <h2 class="mb-2">{{ data.name }}</h2>
+            <h2>{{ data.name }}</h2>
+            <a class="underline" target="_blank" href="https://x.com/ousslaraichi">Twitter</a>
           </div>
         </div>
 

@@ -13,7 +13,8 @@ const { data } = await useAsyncData('alternate', () => queryContent('/applicants
 
           <div class="ml-2">
             <span>Suppléante</span>
-            <h2 class="mb-2">{{ data.name }}</h2>
+            <h2>{{ data.name }}</h2>
+            <a class="underline" target="_blank" href="https://x.com/morganemrolland">Twitter</a>
           </div>
         </div>
 
