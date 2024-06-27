@@ -1,21 +1,6 @@
 <script setup lang="ts">
 const events = [
   {
-    date: "Lundi 24 juin",
-    link: "https://lu.ma/2f97c6fx",
-    title: "Réunion publique à Chicago",
-  },
-  {
-    date: "Mardi 25 juin",
-    link: "https://us06web.zoom.us/webinar/register/WN_vECAkhaXQ7m9SOLUnx6eJQ",
-    title: "Webinaire (en ligne)",
-  },
-  {
-    date: "Mercredi 26 juin",
-    link: "https://lu.ma/ee4pbs12",
-    title: "Réunion publique à New York",
-  },
-  {
     date: "Jeudi 27 juin",
     link: "https://lu.ma/gs9dowoy",
     title: "Réunion publique à Montréal",
