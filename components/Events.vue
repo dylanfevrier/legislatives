@@ -10,7 +10,10 @@ const events = [
 
 <template>
   <section>
-    <h1 class="mb-5">Prochains événements</h1>
+    <div class="mb-5">
+      <h1>Prochains événements</h1>
+      <div>Les évènements du second tour seront ajoutés bientôt</div>
+    </div>
 
     <div v-for="(event, index) in events" :key="index" class="flex flex-col lg:flex-row lg:justify-between lg:items-center mb-4 gap-y-2">
       <div>
@@ -20,6 +23,8 @@ const events = [
 
       <a :href="event.link" target="_blank" class="btn btn-outline">Je participe</a>
     </div>
+
+
   </section>
 </template>
 <script setup lang="ts">
