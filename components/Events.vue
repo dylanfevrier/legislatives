@@ -1,16 +1,6 @@
 <script setup lang="ts">
 const events = [
   {
-    date: "Mardi 2 juillet",
-    link: "https://us06web.zoom.us/j/81914104059?pwd=n98K6Ls8oUEsN9ribh9SVq9SN3kYve.1",
-    title: "Webinaire Côte Est et France Métropolitaine",
-  },
-  {
-    date: "Mardi 2 juillet",
-    link: "https://lu.ma/1whrzhrw",
-    title: "Rencontre avec Oussama à Québec",
-  },
-  {
     date: "Mercredi 3 juillet",
     link: "https://us06web.zoom.us/j/88079639508?pwd=0l33H4wbnt5I47r7wHkg7Yvf6Qkvh0.1",
     title: "Webinaire Côte Est et France Métropolitaine ",
