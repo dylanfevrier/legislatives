@@ -10,6 +10,8 @@
 
     <Campaign class="my-10 lg:my-15"/>
 
+    <Purpose id="purpose" class="px-4 w-full lg:w-[1200px] mx-auto my-10 lg:my-15" />
+
     <div id="applicant" class="px-4 w-full lg:w-[1200px] mx-auto flex flex-col lg:flex-row gap-x-6 gap-y-4 my-5 lg:my-15">
       <Applicant class="w-full lg:w-1/2" />
       <Alternate class="w-full lg:w-1/2"/>
